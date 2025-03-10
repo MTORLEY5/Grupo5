@@ -1,10 +1,18 @@
 # Grupo5
 
+Integrantes:
+Maria Torres -25%
+Allison Sebastian - 25%
+Victor Portilla - 20%
+Felipe Escudero - 10%
+Pablo Villanueva - 10%
+Carlos Calderón - 10%
+
 El proyecto inicia con el ingreso de la data en el SQL
 
 ![image](https://github.com/user-attachments/assets/6c3dc36a-0942-4b30-9f3f-775ceb30dc0e)
 
-
+Luego se inicia con el desarrollo del proyecto del Caso de Negocio
 
 ![image](https://github.com/user-attachments/assets/cd776845-3655-40c3-b951-d008569294f2)
 
