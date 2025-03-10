@@ -13,7 +13,7 @@ Indicadores
 ![image](https://github.com/user-attachments/assets/1076cf88-abe5-4c10-8430-4e9c09682336)
 
 Dashboard
-![image](https://github.com/user-attachments/assets/47bc2349-9fa1-4bf9-91d2-c24b87093a30)
+![image](https://github.com/user-attachments/assets/dfd59b22-9dee-4f06-8b7b-fbb52fc78e9c)
 
 Reporte
 ![image](https://github.com/user-attachments/assets/7742715c-ee07-412f-89a3-2dd6853abc16)
