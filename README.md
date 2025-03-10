@@ -1,6 +1,6 @@
 # Grupo5
 
-# Dashboard Link : 
+# Dashboard Link : https://app.powerbi.com/Redirect?action=OpenReport&appId=f42bbd30-d714-45d1-8212-1963b706d51e&reportObjectId=0e0fe826-4216-476a-bd3c-96d37b0839e9&ctid=aaa18d4e-e7b8-4991-8529-8727bd2215c1&reportPage=ctid%3Daaa18d4e-e7b8-4991-8529-8727bd2215c1%26redirectedFromSignup%3D1%2C1%26experience%3Dpower-bi&pbi_source=appShareLink&portalSessionId=37729178-e803-40e5-9281-b2d6f716ed16
 
 El proyecto inicia con el ingreso de la data en el SQL
 
