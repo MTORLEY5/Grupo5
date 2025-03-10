@@ -1,5 +1,11 @@
 # Grupo5
 
+El proyecto inicia con el ingreso de la data en el SQL
+
+![image](https://github.com/user-attachments/assets/6c3dc36a-0942-4b30-9f3f-775ceb30dc0e)
+
+
+
 ![image](https://github.com/user-attachments/assets/cd776845-3655-40c3-b951-d008569294f2)
 
 ![image](https://github.com/user-attachments/assets/5c9ffd16-56a4-485f-97a8-f04f820d1437)
