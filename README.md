@@ -10,41 +10,44 @@ Luego se inicia con el desarrollo del proyecto del Caso de Negocio
 ![image](https://github.com/user-attachments/assets/b91f3425-8a62-4b4b-8288-f47e7e56b0c0)
 
 Indicadores
-![image](https://github.com/user-attachments/assets/5c9ffd16-56a4-485f-97a8-f04f820d1437)
+![image](https://github.com/user-attachments/assets/1076cf88-abe5-4c10-8430-4e9c09682336)
 
 Dashboard
-![image](https://github.com/user-attachments/assets/0495f99f-eb55-4899-a992-211070f72245)
+![image](https://github.com/user-attachments/assets/47bc2349-9fa1-4bf9-91d2-c24b87093a30)
 
 Reporte
 ![image](https://github.com/user-attachments/assets/7742715c-ee07-412f-89a3-2dd6853abc16)
 
 #PREGUNTA 1
-![image](https://github.com/user-attachments/assets/a06fce34-487d-4967-ad30-62f90118d84b)
+![image](https://github.com/user-attachments/assets/a490e3ba-2364-4b35-b3f9-3f57a77e3d54)
 
 #PREGUNTA 2
-![image](https://github.com/user-attachments/assets/75703d22-c1e0-4304-9cbc-8aea6188ae91)
+![image](https://github.com/user-attachments/assets/1bcc1069-a1db-4d60-989f-c034d9ff185c)
 
 #PREGUNTA 3
-![image](https://github.com/user-attachments/assets/264e17e6-2c2e-4820-a980-7d767a371d3b)
+![image](https://github.com/user-attachments/assets/57d66490-f347-4423-ab07-8aaff3817bf2)
 
 #PREGUNTA 4
-![image](https://github.com/user-attachments/assets/b5d94f8b-3013-4fbe-9add-7bb13f52b681)
+![image](https://github.com/user-attachments/assets/d3849f4b-021e-4984-9ffc-6759bb6778f5)
 
 #PREGUNTA 5
-![image](https://github.com/user-attachments/assets/358f0799-ef15-4b6d-81dc-92219af28d56)
+![image](https://github.com/user-attachments/assets/14d002c1-04d4-4463-a7ab-4844c3aa92cf)
 
 #PREGUNTA 6
-![image](https://github.com/user-attachments/assets/6b26033f-0729-4dd4-a3db-09a7c486f421)
+![image](https://github.com/user-attachments/assets/18841387-42d9-41d4-910b-8bd7871380cf)
 
 #PREGUNTA 7
-![image](https://github.com/user-attachments/assets/514124a4-c811-40cd-9190-bd198d2e16c3)
+![image](https://github.com/user-attachments/assets/7d68956e-8b6b-49a8-88e2-dee32100b7b9)
 
 #PREGUNTA 8
-![image](https://github.com/user-attachments/assets/551d8de9-3808-4bd8-8d02-b749cac25f4f)
+![image](https://github.com/user-attachments/assets/5bf440f1-c26d-4afa-ac9c-5ad011da8b68)
 
 #PREGUNTA 9
-![image](https://github.com/user-attachments/assets/e0390846-a577-4efa-a5c2-4f56b756c1f4)
+![image](https://github.com/user-attachments/assets/73bd49f2-6141-4946-841b-13607542fbde)
 
 #PREGUNTA 10
-![image](https://github.com/user-attachments/assets/c15d4e5b-155d-444a-9e56-798b98551d70)
+![image](https://github.com/user-attachments/assets/be55db7f-a519-41bc-9e0f-d7d03aaa2626)
+
+Recomendaciones
+![image](https://github.com/user-attachments/assets/ac59a998-6500-4128-95b2-5fd6eb9a254b)
 
