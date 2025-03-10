@@ -31,7 +31,7 @@ Reporte
 ![image](https://github.com/user-attachments/assets/d3849f4b-021e-4984-9ffc-6759bb6778f5)
 
 #PREGUNTA 5
-![image](https://github.com/user-attachments/assets/14d002c1-04d4-4463-a7ab-4844c3aa92cf)
+![image](https://github.com/user-attachments/assets/c9dd606c-88af-48c3-bd3e-08e58ac08bee)
 
 #PREGUNTA 6
 ![image](https://github.com/user-attachments/assets/18841387-42d9-41d4-910b-8bd7871380cf)
