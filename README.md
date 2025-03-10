@@ -14,7 +14,7 @@ Indicadores
 ![image](https://github.com/user-attachments/assets/1076cf88-abe5-4c10-8430-4e9c09682336)
 
 Dashboard
-![image](https://github.com/user-attachments/assets/dfd59b22-9dee-4f06-8b7b-fbb52fc78e9c)
+![image](https://github.com/user-attachments/assets/3fba3e8f-9f0a-4bd7-a009-21488bbf7ae0)
 
 Reporte
 ![image](https://github.com/user-attachments/assets/7b7b41b6-98b9-4089-af7b-13bf38517317)
@@ -38,7 +38,7 @@ Reporte
 ![image](https://github.com/user-attachments/assets/7696b9e8-9910-429f-8c23-4924b216d762)
 
 #PREGUNTA 7
-![image](https://github.com/user-attachments/assets/b54a43b4-fc49-4790-8f89-538753d3371c)
+![image](https://github.com/user-attachments/assets/2ba26d6d-2e15-46ce-af82-e1e69ed9a9db)
 
 #PREGUNTA 8
 ![image](https://github.com/user-attachments/assets/5bf440f1-c26d-4afa-ac9c-5ad011da8b68)
