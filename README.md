@@ -1,12 +1,6 @@
 # Grupo5
 
-Integrantes:
-Maria Torres -25%
-Allison Sebastian - 25%
-Victor Portilla - 20%
-Felipe Escudero - 10%
-Pablo Villanueva - 10%
-Carlos Calderón - 10%
+
 
 El proyecto inicia con el ingreso de la data en el SQL
 
