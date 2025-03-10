@@ -1,19 +1,21 @@
 # Grupo5
 
 
-
 El proyecto inicia con el ingreso de la data en el SQL
 
 ![image](https://github.com/user-attachments/assets/6c3dc36a-0942-4b30-9f3f-775ceb30dc0e)
 
 Luego se inicia con el desarrollo del proyecto del Caso de Negocio
 
-![image](https://github.com/user-attachments/assets/cd776845-3655-40c3-b951-d008569294f2)
+![image](https://github.com/user-attachments/assets/b91f3425-8a62-4b4b-8288-f47e7e56b0c0)
 
+Indicadores
 ![image](https://github.com/user-attachments/assets/5c9ffd16-56a4-485f-97a8-f04f820d1437)
 
+Dashboard
 ![image](https://github.com/user-attachments/assets/0495f99f-eb55-4899-a992-211070f72245)
 
+Reporte
 ![image](https://github.com/user-attachments/assets/7742715c-ee07-412f-89a3-2dd6853abc16)
 
 #PREGUNTA 1
