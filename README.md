@@ -17,7 +17,7 @@ Dashboard
 ![image](https://github.com/user-attachments/assets/dfd59b22-9dee-4f06-8b7b-fbb52fc78e9c)
 
 Reporte
-![image](https://github.com/user-attachments/assets/7742715c-ee07-412f-89a3-2dd6853abc16)
+![image](https://github.com/user-attachments/assets/7b7b41b6-98b9-4089-af7b-13bf38517317)
 
 #PREGUNTA 1
 ![image](https://github.com/user-attachments/assets/a490e3ba-2364-4b35-b3f9-3f57a77e3d54)
