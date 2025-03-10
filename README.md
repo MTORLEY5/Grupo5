@@ -37,16 +37,16 @@ Reporte
 ![image](https://github.com/user-attachments/assets/18841387-42d9-41d4-910b-8bd7871380cf)
 
 #PREGUNTA 7
-![image](https://github.com/user-attachments/assets/7d68956e-8b6b-49a8-88e2-dee32100b7b9)
+![image](https://github.com/user-attachments/assets/b54a43b4-fc49-4790-8f89-538753d3371c)
 
 #PREGUNTA 8
 ![image](https://github.com/user-attachments/assets/5bf440f1-c26d-4afa-ac9c-5ad011da8b68)
 
 #PREGUNTA 9
-![image](https://github.com/user-attachments/assets/73bd49f2-6141-4946-841b-13607542fbde)
+![image](https://github.com/user-attachments/assets/58e2eb9a-d26e-4135-b68e-f00a04b38c57)
 
 #PREGUNTA 10
-![image](https://github.com/user-attachments/assets/be55db7f-a519-41bc-9e0f-d7d03aaa2626)
+![image](https://github.com/user-attachments/assets/7e9f4945-eefa-484c-9f31-34a4f5d54798)
 
 Recomendaciones
 ![image](https://github.com/user-attachments/assets/ac59a998-6500-4128-95b2-5fd6eb9a254b)
